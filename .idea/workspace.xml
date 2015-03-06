@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="0aeafcc9-3ee3-4efc-a271-5b2a09eefdb1" name="Default" comment="">
       <change type="DELETED" beforePath="D:\javaWorkspace\moneyManager\test\src\com\moneyManager\moneyManagerTest.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/moneyManager/com/moneyManager/MoneyManager.class" afterPath="$PROJECT_DIR$/out/production/moneyManager/com/moneyManager/MoneyManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/moneyManager/com/moneyManager/MoneyManagerTest.class" afterPath="$PROJECT_DIR$/out/test/moneyManager/com/moneyManager/MoneyManagerTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/moneyManager/MoneyManager.java" afterPath="$PROJECT_DIR$/src/com/moneyManager/MoneyManager.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/moneyManager/MoneyManagerTest.java" afterPath="$PROJECT_DIR$/test/com/moneyManager/MoneyManagerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="moneyManager.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -488,12 +491,12 @@
       <created>1425651359939</created>
       <option name="number" value="Default" />
       <updated>1425651359939</updated>
-      <workItem from="1425651363348" duration="5826000" />
+      <workItem from="1425651363348" duration="5873000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5826000" />
+    <option name="totallyTimeSpent" value="5873000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -510,7 +513,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32958803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32958803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
